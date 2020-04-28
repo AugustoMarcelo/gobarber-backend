@@ -61,6 +61,9 @@
 ```bash
   # criando as tabelas no banco de dados
   yarn sequelize db:migrate
+
+  # criando um usuário administrador: email: admin@gobarber.com e senha: 123456
+  yarn sequelize db:seed:all
 ```
 
 - Com o banco de dados rodando e as tabelas criadas, inicialize a aplicação e o sistema de filas para envio de e-mails:
