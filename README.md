@@ -4,6 +4,13 @@
 
 ---
 
+## 📑 Sobre
+
+**GoBarber** é uma aplicação que permite fornecedores de serviços (nesse caso, barbeiros) gerenciar sua agenda de atendimentos.
+O front end dessa aplicação pode ser encontrado [aqui](https://github.com/AugustoMarcelo/gobarber-frontend).
+
+---
+
 ## ⚙ Tecnologias utilizadas
 
 - NodeJS
